@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "glassy-totality-365703",
+  "private_key_id": "ca64820d406155441eac9a21f34a727f7e54e503",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiabL4ZXIBKmh8\nHAhPakyDUjXiw1b+U3NKXzZXwbErJ6PpHfzZ0iVX4ngYIjsGEi80gSyOvyIl1YeF\nq/gUPwCwvMFwmrk8DPDo2ycc2S9sEi5ssFos0AqSmQVLnHwutLwlrXo5EjuHVkGJ\n1jW2DRlRxHWMcqBIxLe0jfWaW8vxMiuoBdbgO8+nglLjqeEvuVYXxN19oOvuAK2P\nuHwtw2vr7K7oEO4ux2I+qJR3esA/xjBUxs94d2c26Hvo58nPA6/trtUhK3vnffy9\nLbno2gd31PVIdGShmU9DD2r86U0NRUAMSTclDQgvKHfOu1WIxIV3NIPzgh/8MbNk\nr/pwnf0bAgMBAAECggEAOykWfL3zO7J3cfICIu99JH7PSyVNrIG4Zths4qWXBDnB\nzrpSLwQJ/0vq5Buf9XOtR0pgcTT1WuO/pHUCfll+xmJTclGh9Npf7OpbgnooeIzc\n5VGN33H+z+y2jZbYc2j5eh4Jff2Cuqc0Y2GomgKGfQ77pKfic+9YXYgydUJH9Tj0\n+OFQwV3N8HuFaq9GDtdLUiOY/dkbMStlBqUIAe4FszRlpRYbttFjNA+ECJd9VVBZ\nmCfhs2DBEQRIoozTRo8kYjl6izQtEv7bFrNV2d5l8VDv6bfVFI9ocfz7u80UFQCJ\nNAPHwN9GyWsCJEL193iQubEspJW/PWoxUBOQRHUASQKBgQDYLGitEHsXwPFEv0XG\nxK04rkDK0DW82p5cRrQXXT/Lp81zHH2zvmBDqm0mEEByFyadFGuufNmdphu4fvTe\nJtyHv/Ri8NhFbxl84fZcfJsC0ypwyo3wy/iX0t3TboS8+CKz26eInMePtYd1xBtu\nO6BqbT4MzWwluDgvS/IqQlivSQKBgQDAVbrGcyHSrgryT+Zvh8nK9taVprBFPm7j\njiFgz0UYWjCxegDIeBRwowimAm5Bu2rPfyjBj6l4q0G1VISlWTu1m9Wvww3gSbad\nYhwVXPkYwMuj8UtsTALx67Q22PCwmIOp/YtaLxUjMXzlPuKaIoDmhyKuRVXwy3lR\nXvdteC41QwKBgEMkD+LowoKPL6B9k+t3fKGlJYSYhIhCknrwjtDO6piTZrFBAR3J\nnFaH4Vy4IXwOCrUw+Xz5VBGt3OBBtkYlZctX6Eyup01xg0YRXJY/MVoAQidEEi/e\n+jgVi0Y3Bk02+HhKWc+JekX9SLRgE3D6XgmQInyRdOyGOhUejnlnn+nZAoGBAIbb\nlZqQH6cZYZOFco3BKDyn1s4XkoD6xcXIYp7+tfPdSUcnxGTLzYksx2OfUK/GOZ5E\nCs+ta6awbeI24MsPRk6QdcRHf/NDvEeeAxL3nbE9fYv2JGxK38XA/xt2AU3RooAO\nxyb03F1Q1cHn1fs9NiRtnGOVOi0cfnQPom2fVscBAoGAIqpUW14UYGHiUxvuBHHq\nDO/MMWlxbtT+2dLA9CRY3gkiTaku5XIaLnrI5/TLKfFgfNOfl8zkoaC3odHDto/T\n40eZVamj01BDbcMGG4w5xJ2HKH6GdEtzItGyONrO6DYs+CxIgkepTEVHkgFLN7VO\nPjfI3IHogfRwh4MWfBpf4Ls=\n-----END PRIVATE KEY-----\n",
+  "client_email": "glassy-totality-365703@appspot.gserviceaccount.com",
+  "client_id": "117948161438553368162",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/glassy-totality-365703%40appspot.gserviceaccount.com"
+}
